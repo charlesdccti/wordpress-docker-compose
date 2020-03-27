@@ -20,14 +20,14 @@ services:
     links:
       - db
 
-  wpcli:
-    image: wordpress:cli
-    volumes:
-      - ./config/php.conf.ini:/usr/local/etc/php/conf.d/conf.ini
-      - ./wp-app:/var/www/html
-    depends_on:
-      - db
-      - wp
+  # wpcli:
+  #   image: wordpress:cli
+  #   volumes:
+  #     - ./config/php.conf.ini:/usr/local/etc/php/conf.d/conf.ini
+  #     - ./wp-app:/var/www/html
+  #   depends_on:
+  #     - db
+  #     - wp
 
   pma:
     image: phpmyadmin/phpmyadmin
@@ -51,10 +51,10 @@ services:
     ]
     volumes:
       - ./wp-data:/docker-entrypoint-initdb.d
-      - db_data:/var/lib/mysql
+      - ./db_data:/var/lib/mysql
     environment:
       MYSQL_DATABASE: "${DB_NAME}"
       MYSQL_ROOT_PASSWORD: "${DB_ROOT_PASSWORD}"
 
-volumes:
-  db_data:
+# volumes:
+#   db_data:

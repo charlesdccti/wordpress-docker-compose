@@ -1,0 +1,1490 @@
+# Translation of Themes - Ashe in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Ashe package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-10-25 00:53:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Ashe\n"
+
+#. Description of the theme
+msgid "Personal and Multi-Author Free WordPress Blog Theme. Perfect for personal, lifestyle, health & fitness, food, cooking, bakery, travel, beauty, fashion, wedding, photography, news, quotes blog, auto blog, small business website and any other kind of amazing blogs. Minimal, elegant & mobile friendly layout with WooCommerce shop (storefront) support will WOW and inspire your visitors. Well documented and very easy to use even for WordPress beginners. Clean and Modern Responsive design will perfectly showcase your content on any device, even on tablet, mobile & retina displays. Very fast, compatibility with many popular plugins & of course translation & RTL (right to left language) ready, coded with best SEO practices. The theme has features like Text & Image logo, Fullscreen Slider, Header image, Instagram slider widget support, footer menu support, GDPR compatibility plugins support and many more. Works perfectly with all major drag and drop page builders like Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi. You just need to write and be awesome! TEMPLATE DEMO: https://wp-royal.com/themes/ashe-free/demo/"
+msgstr "Tema do WordPress gratuito para blog pessoal e multiautor. Perfeito para blogs pessoais, sobre estilo de vida, saúde & bem-estar, comida, gastronomia, confeitaria, viagens, beleza, moda, casamentos, fotografia, notícias e também blogs de citações, autoblogs, sites de pequenas empresas e demais tipos de blog. O layout é simples, elegante e responsivo, com suporte ao plugin WooCommerce para lojas virtuais. Ashe é bem detalhado e muito fácil de usar, mesmo para iniciantes no WordPress. Seu design simples, moderno e responsivo consegue exibir seu conteúdo em qualquer dispositivo, inclusive tablets, dispositivos móveis e telas retina. É bastante rápido, compatível com vários plugins populares e com idiomas RTL (escritos da direita para a esquerda), e é codificado com as melhores técnicas de SEO. O Tema Ashe tem recursos como: logo de texto & imagem, controle deslizante para tela cheia, imagem de cabeçalho, suporte para widget deslizante do Instagram, menu de rodapé e plugins de compatibilidade ao GDPR, e muito mais. Funciona perfeitamente com os grandes construtores de páginas (arrastar e soltar) como Elementor, Beaver Builder, Visual Composer, SiteOrigin e Divi. Você só precisa escrever para se tornar incrível! Modelo de demonstração: https://wp-royal.com/themes/ashe-free/demo/"
+
+#. Theme Name of the theme
+#: inc/about/about-ashe.php:366
+msgid "Ashe"
+msgstr "Ashe"
+
+#: inc/about/about-ashe.php:69
+msgid "Setup Instagram"
+msgstr "Configurar Instagram"
+
+#: inc/customizer/customizer.php:901
+msgid "Show Tumblr"
+msgstr "Mostrar Tumblr"
+
+#: inc/customizer/customizer.php:898
+msgid "Show Reddit"
+msgstr "Mostrar Reddit"
+
+#: inc/customizer/customizer.php:895
+msgid "Show Linkedin"
+msgstr "Mostrar Linkedin"
+
+#: inc/customizer/customizer.php:892
+msgid "Show Google Plus"
+msgstr "Mostrar Google Plus"
+
+#: inc/customizer/customizer.php:889
+msgid "Show Pinterest"
+msgstr "Mostrar Pinterest"
+
+#: inc/customizer/customizer.php:886
+msgid "Show Twitter"
+msgstr "Mostrar Twitter"
+
+#: inc/customizer/customizer.php:883
+msgid "Show Facebook"
+msgstr "Mostrar Facebook"
+
+#: inc/customizer/customizer.php:809
+msgid "Display Featured Links on"
+msgstr "Exibir links em destaque"
+
+#: inc/customizer/customizer.php:694
+msgid "Posts"
+msgstr "Posts"
+
+#: inc/customizer/customizer.php:693
+msgid "Custom"
+msgstr "Personalizado"
+
+#: inc/customizer/customizer.php:690
+msgid "Display Slider on"
+msgstr "Exibir controle deslizante"
+
+#: inc/customizer/customizer.php:686 inc/customizer/customizer.php:805
+msgid "Front and Posts Pages"
+msgstr "Página inicial e índice de posts"
+
+#: inc/customizer/customizer.php:735
+msgid "Slider Item"
+msgstr "Item controle deslizante"
+
+#: inc/customizer/customizer.php:685 inc/customizer/customizer.php:804
+msgid "Posts Page"
+msgstr "Página de posts"
+
+#: inc/customizer/customizer.php:684 inc/customizer/customizer.php:803
+msgid "Front Page"
+msgstr "Página de frente"
+
+#: inc/customizer/customizer.php:666
+msgid "Logo Width"
+msgstr "Largura do Logo"
+
+#: inc/customizer/customizer.php:663
+msgid "Logo Upload"
+msgstr "Enviar Logo"
+
+#: inc/customizer/customizer.php:410
+msgid "After activating non-default skin, you will NOT be able to take control over skin colors. These options are only available in the Ashe PRO."
+msgstr "Depois de ativar a capa não padrão, você NÃO poderá controlar as cores da capa. Essas opções estão disponíveis apenas no Ashe PRO."
+
+#: inc/customizer/customizer.php:351
+msgid "Please Note: "
+msgstr "Observe:"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:555
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:587
+msgid "Add Icon"
+msgstr "Adicionar ícone"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:550
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:579
+msgid "Remove Icon"
+msgstr "Remover ícone"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:532
+msgid "Social icons"
+msgstr "Ícones sociais"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:522
+msgid "Icon"
+msgstr "Ícone"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:519
+msgid "Image type"
+msgstr "Tipo de imagem"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:512
+msgid "Upload Image"
+msgstr "Enviar imagem"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:508
+msgid "Slide Background"
+msgstr "Plano de fundo do slide"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:338
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:454
+msgid "Delete field"
+msgstr "Excluir campo"
+
+#: inc/customizer/customizer.php:389 inc/customizer/customizer.php:424
+msgid "Skins"
+msgstr "Skins"
+
+#: inc/customizer/customizer.php:400
+msgid "Select Theme Skin"
+msgstr "Selecione um tema"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:323
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:444
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:315
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:437
+msgid "Link"
+msgstr "Link"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:308
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:423
+msgid "Text"
+msgstr "Texto"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:301
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:416
+msgid "Open Link in New Tab"
+msgstr "Abrir Link numa nova aba"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:293
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:409
+msgid "Slide Link"
+msgstr "Slide Link"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:286
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:402
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:430
+msgid "Button Text"
+msgstr "Texto do botão"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:279
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:395
+msgid "Description"
+msgstr "Descrição"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:272
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:388
+msgid "Subtitle"
+msgstr "Legenda"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:248
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:257
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:365
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:373
+msgid "Color"
+msgstr "Cor"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:41
+msgid "Customizer Repeater"
+msgstr "Repetidor personalizado"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:36
+msgid "Add new field"
+msgstr "Adicione um novo campo"
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "O seguinte plugin recomendado está inativo no momento: %1$s."
+msgstr[1] "Os seguintes plugins recomendados estão inativos no momento: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "O seguinte plugin necessário está inativo no momento: %1$s."
+msgstr[1] "Os seguintes plugins obrigatórios estão inativos no momento: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Existe uma atualização disponível para: %1$s."
+msgstr[1] "Existe atualizações disponíveis para: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "O plugin a seguir precisa ser atualizado para suas versões mais recentes para garantir compatibilidade máxima com este tema: %1$s."
+msgstr[1] "O plugins a seguir precisam ser atualizados para suas versões mais recentes para garantir compatibilidade máxima com este tema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomenda o seguinte plugin: %1$s."
+msgstr[1] "Este tema recomenda os seguintes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema requer o seguinte plugin: %1$s."
+msgstr[1] "Este tema requer os seguintes plugins: %1$s."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Todas instalações terminaram."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado com sucesso."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "O processo de instalação e ativação está iniciando. Este processo pode demorar um pouco em alguns servidores, tenha paciência."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando e ativando plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Todas as instalações e ativações foram concluídas."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Ocultar detalhes"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Mostrar detalhes"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado e ativado com sucesso."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "O processo de instalação e ativação está iniciando. Este processo pode demorar um pouco em alguns servidores, seja paciente."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "A instalação do %1$s falhou."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ocorreu um erro durante a instalação %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Atualizando plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Ativação do plugin falhou."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Não há plugins disponíveis para serem ativados nesse momento."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Nenhum plugin selecionado para ser ativado. Nenhuma ação tomada."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Não há plugins disponíveis para serem atualizados nesse momento."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Não há plugins disponíveis para serem instalados nesse momento."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Nenhum plugin selecionado para ser atualizado. Nenhuma ação tomada."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Nenhum plugin selecionado para ser instalado. Nenhuma ação tomada."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Ativar"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Atualizar"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Instalar"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Ativar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Atualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Status"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versão"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2548
+#: inc/customizer/customizer.php:698
+msgid "Source"
+msgstr "Origem"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Não há plugins para instalar, atualizar ou ativar."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versão disponível:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Versão mínima requerida:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versão instalada:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconhecido"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Ativado <span class=\"count\">(%s)</span>"
+msgstr[1] "Para ativar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Atualização disponível <span class=\"count\">(%s)</span>"
+msgstr[1] "Atualizações disponíveis <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Atualização recomendada"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Requer atualização"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Atualização necessária não disponivel"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Instalado mas não ativado"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Não instalado"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Fonte externa"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repositório do WordPress"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Requerido"
+
+#. translators: %s: version number
+#: inc/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:1121
+#: inc/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "e"
+
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "O pacote remoto de plugin consiste em mais de um arquivo, mas os arquivos não estão empacotados em uma pasta."
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Contate o provedor do plugin e peça a eles para empacotar seu plugin de acordo com as diretrizes do WordPress."
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "O pacote do plugin remoto não contém a pasta com o slug desejado e a renomeação não funcionou."
+
+#: inc/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin precisa ser atualizado para ser compatível com o seu tema."
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Entre em contato com o administrador do site para obter ajuda."
+
+#: inc/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Há um ou mais plugins necessários ou recomendados para instalar, atualizar ou ativar."
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Dispensar notificação"
+
+#. translators: 1: dashboard link.
+#: inc/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos os plugins foram ativados com sucesso. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin não ativado. É necessário uma versão mais recente do %s para este tema. Atualize o plugin."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nenhuma ação tomada. o plugin %1$s já está ativo."
+
+#: inc/tgm/class-tgm-plugin-activation.php:387
+#: inc/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin ativado com sucesso."
+
+#: inc/tgm/class-tgm-plugin-activation.php:386
+#: inc/tgm/class-tgm-plugin-activation.php:827
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+#: inc/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Voltar para o Painel"
+
+#: inc/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Voltar para a instalação dos plugins requeridos"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Atualize a mensagem do author do plugin:"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todo <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos <span class=\"count\">(%s)</span>"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pre-empacotado"
+
+#: inc/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Atualização obrigatória"
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+#: inc/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "O seguinte plugin foi ativado com sucesso:"
+msgstr[1] "O seguintes plugins foram ativados com sucesso:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Comece a ativar o plugin"
+msgstr[1] "Comece a ativar os plugins"
+
+#: inc/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Comece a atualizar o plugin"
+msgstr[1] "Comece a atualizar os plugins"
+
+#: inc/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Come a instalar o plugin"
+msgstr[1] "Comece a instalar os plugins"
+
+#: inc/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Algo deu errado com a API do plugin."
+
+#: inc/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Instalar plugins necessários"
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Atualizando o plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Instalando o plugin: %s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Instalar plugins"
+
+#: inc/about/about-ashe.php:250
+msgid "Setup Random Header Images"
+msgstr "Configurar imagens de cabeçalho aleatório"
+
+#: inc/about/about-ashe.php:265
+msgid "Customize General Layouts"
+msgstr "Personalize layouts gerais"
+
+#: inc/about/about-ashe.php:270
+msgid "Customize Blog Page"
+msgstr "Personalize a página do blog"
+
+#: inc/customizer/customizer.php:1127
+msgid "Show Scroll-Top Button"
+msgstr "Mostrar botão de rolagem"
+
+#: inc/customizer/customizer.php:1166
+msgid "Responsive"
+msgstr "Responsivo"
+
+#: inc/customizer/customizer.php:1167
+msgid "These options will only apply to Mobile devices."
+msgstr "Essas opções serão aplicadas apenas a dispositivos móveis."
+
+#: inc/customizer/customizer.php:1174
+msgid "Merge Top and Main Menus"
+msgstr "Mesclar os principais e principais menus"
+
+#: inc/customizer/customizer.php:1177
+msgid "Show Featured Slider"
+msgstr "Mostrar slider em destaque"
+
+#: inc/customizer/customizer.php:1180
+msgid "Show Featured Links"
+msgstr "Mostrar links em destaque"
+
+#: inc/customizer/customizer.php:1183
+msgid "Show Related Posts"
+msgstr "Mostrar posts relacionados"
+
+#: 404.php:8
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Aparentemente não conseguimos encontrar o que você está procurando. Talvez uma busca ajude."
+
+#: inc/about/about-ashe.php:399
+msgid "Unlimited Colors Options"
+msgstr "Opções de cores ilimitadas"
+
+#: inc/about/about-ashe.php:406
+msgid "Classic, List, Grid Layouts"
+msgstr "Clássico, lista, layouts de grade"
+
+#: inc/about/about-ashe.php:434
+msgid "Premium Support 24/7"
+msgstr "Suporte Premium 24/7"
+
+#: inc/about/about-ashe.php:444
+msgid "View Full Feature List"
+msgstr "Ver lista completa de recursos"
+
+#. translators: %1$s: theme name, %2$s link, %3$s theme author
+#: footer.php:47
+msgid "%1$s Theme by <a href=\"%2$s\">%3$s.</a>"
+msgstr "%1$s Tema por <a href=\"%2$s\">%3$s.</a>"
+
+#. translators: %s theme name
+#: inc/about/about-ashe.php:21
+msgid "Welcome to %s"
+msgstr "Bem-vindo ao %s"
+
+#. translators: %1$s: theme name, %2$s link
+#: functions.php:98
+msgid "Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our <a href=\"%2$s\">Welcome page</a>"
+msgstr "Obrigado por escolher o%1$s! Para aproveitar ao máximo o melhor que o nosso tema pode oferecer, deixe de visitar nossa <a href=\"%2$s\">página de boas-vindas</a>"
+
+#: inc/customizer/customizer.php:338 inc/about/about-ashe.php:346
+msgid "Want to get the gist on the latest theme changes? Just consult our changelog below to get a taste of the recent fixes and features implemented."
+msgstr "Quer ter a essência das últimas mudanças do tema? Basta consultar nosso log de mudanças abaixo para ter uma ideia das correções e recursos recentes implementados."
+
+#: functions.php:255
+msgid "Right Sidebar"
+msgstr "Barra lateral direita"
+
+#: functions.php:265
+msgid "Left Sidebar"
+msgstr "Barra lateral esquerda"
+
+#: inc/about/about-ashe.php:44
+msgid "Useful Plugins"
+msgstr "Plugins úteis"
+
+#. translators: %s theme name
+#: inc/about/about-ashe.php:85
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to personalize your site."
+msgstr "%s suporta o Personalizador de Tema para todas as configurações do tema. Clique em \"Personalizar\" para personalizar seu site."
+
+#: inc/about/about-ashe.php:88
+msgid "Start Customizing"
+msgstr "Comece Personalizar"
+
+#. translators: %s link
+#: inc/customizer/customizer.php:331 inc/about/about-ashe.php:100
+msgid "Ashe Pro's powerful setup allows you to easily create unique looking sites. Here are a few included examples that can be installed with one click in the Pro Version. More details in the <a href=\"%s\" target=\"_blank\" >Theme Documentation</a>"
+msgstr "A poderosa configuração do Ashe Pro permite que você crie facilmente sites únicos. Aqui estão alguns exemplos incluídos que podem ser instalados com um clique na versão Pro. Mais detalhes na <a href=\"%s\" target=\"_blank\" >documentação do tema</a>"
+
+#: inc/about/about-ashe.php:495
+msgid "..."
+msgstr "..."
+
+#: inc/customizer/customizer.php:450
+msgid "Header Background"
+msgstr "Fundo do cabeçalho"
+
+#: inc/customizer/customizer.php:1087
+msgid "Italic"
+msgstr "Itálico"
+
+#: inc/customizer/customizer.php:1090
+msgid "Uppercase"
+msgstr "Maiúscula"
+
+#: functions.php:52
+msgid "Footer Menu"
+msgstr "Menu de rodapé"
+
+#: inc/about/about-ashe.php:220 functions.php:314 functions.php:333
+msgid "Setup Menu"
+msgstr "Menu de configuração"
+
+#: inc/about/about-ashe.php:29
+msgid "Theme Demo Preview"
+msgstr "Pré-visualização do tema"
+
+#: inc/about/about-ashe.php:41
+msgid "Video Tutorials"
+msgstr "Tutoriais em vídeo"
+
+#: inc/about/about-ashe.php:212 inc/about/about-ashe.php:217
+#: inc/about/about-ashe.php:221 inc/about/about-ashe.php:226
+#: inc/about/about-ashe.php:231 inc/about/about-ashe.php:236
+#: inc/about/about-ashe.php:241 inc/about/about-ashe.php:246
+#: inc/about/about-ashe.php:251 inc/about/about-ashe.php:256
+#: inc/about/about-ashe.php:261 inc/about/about-ashe.php:266
+#: inc/about/about-ashe.php:271 inc/about/about-ashe.php:276
+#: inc/about/about-ashe.php:280
+msgid "Watch Video"
+msgstr "Assista vídeo"
+
+#: inc/customizer/customizer.php:314 inc/about/about-ashe.php:213
+msgid "Get Started"
+msgstr "Comece a usar"
+
+#: inc/about/about-ashe.php:222 inc/about/about-ashe.php:227
+#: inc/about/about-ashe.php:232 inc/about/about-ashe.php:237
+#: inc/about/about-ashe.php:242 inc/about/about-ashe.php:247
+#: inc/about/about-ashe.php:252 inc/about/about-ashe.php:257
+#: inc/about/about-ashe.php:262 inc/about/about-ashe.php:267
+#: inc/about/about-ashe.php:272
+msgid "Customize"
+msgstr "Personalizar"
+
+#: inc/about/about-ashe.php:225
+msgid "Setup Logo Image"
+msgstr "Imagem do logotipo de instalação"
+
+#: inc/about/about-ashe.php:230
+msgid "Setup Social Media"
+msgstr "Configurar Mídias Sociais"
+
+#: inc/about/about-ashe.php:235
+msgid "Setup Copyright"
+msgstr "Configurar Copyright"
+
+#: inc/about/about-ashe.php:240
+msgid "Setup Colors"
+msgstr "Cores de configuração"
+
+#: inc/about/about-ashe.php:245
+msgid "Setup Header Image"
+msgstr "Imagem do cabeçalho de configuração"
+
+#: inc/about/about-ashe.php:255
+msgid "Setup Featured Slider"
+msgstr "Configurar slider em destaque"
+
+#: inc/about/about-ashe.php:260
+msgid "Setup Featured Links"
+msgstr "Configurar os links em destaque"
+
+#: inc/about/about-ashe.php:216
+msgid "Setup Instagram Widget"
+msgstr "Instalação do Instagram Widget"
+
+#: inc/about/about-ashe.php:275
+msgid "Create Blog Post"
+msgstr "Criar postagem no blog"
+
+#: inc/about/about-ashe.php:279
+msgid "Translate The Theme"
+msgstr "Traduzir o tema"
+
+#: inc/customizer/customizer.php:312
+msgid "Demo Import / Getting Started"
+msgstr "Importação / Primeiros passos de demonstração"
+
+#: inc/customizer/customizer.php:313
+msgid "All you need for startup: Demo Import, Video Tutorials and more. To see what Ashe theme can offer, please visit a "
+msgstr "Tudo o que você precisa para iniciar: Demo Import, Video Tutorials e muito mais. Para ver o que o tema Ashe pode oferecer, por favor visite um"
+
+#: inc/customizer/customizer.php:313
+msgid "Demo Preview Page."
+msgstr "Página de visualização de demonstração."
+
+#: inc/customizer/customizer.php:1124
+msgid "Your Copyright Text"
+msgstr "Seu texto de direitos autorais"
+
+#: inc/about/about-ashe.php:122
+msgid "Lifestyle"
+msgstr "Estilo de vida"
+
+#: inc/customizer/customizer.php:328 inc/customizer/customizer.php:334
+#: inc/about/about-ashe.php:389
+msgid "Predefined Styles"
+msgstr "Estilos Predefinidos"
+
+#: inc/customizer/customizer.php:505
+msgid "1 Column"
+msgstr "1 coluna"
+
+#: inc/customizer/customizer.php:506
+msgid "List Style"
+msgstr "Estilo da lista"
+
+#: inc/customizer/customizer.php:597
+msgid "Header Options"
+msgstr "Opções de cabeçalho"
+
+#: inc/customizer/customizer.php:970
+msgid "Open Social Links in New Window"
+msgstr "Abrir links sociais em uma nova janela"
+
+#: inc/about/about-ashe.php:108
+msgid "Main"
+msgstr "Principal"
+
+#: inc/about/about-ashe.php:115
+msgid "Food"
+msgstr "Comida"
+
+#: inc/customizer/customizer.php:396 inc/about/about-ashe.php:129
+msgid "Dark"
+msgstr "Escuro"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2321 inc/about/about-ashe.php:105
+msgid "Active"
+msgstr "Ativo"
+
+#: inc/about/about-ashe.php:413
+msgid "Advanced Slider Options"
+msgstr "Opções avançadas de controle deslizante"
+
+#: inc/customizer/customizer.php:1069
+msgid "Typography"
+msgstr "Tipografia"
+
+#: inc/customizer/customizer.php:1075
+msgid "Open Sans"
+msgstr "Abrir sans"
+
+#: inc/customizer/customizer.php:1076
+msgid "Rokkitt"
+msgstr "Rokkitt"
+
+#: inc/customizer/customizer.php:1077
+msgid "Kalam"
+msgstr "Kalam"
+
+#: inc/customizer/customizer.php:1081 inc/customizer/customizer.php:1084
+msgid "Font Family"
+msgstr "Fonte"
+
+#: inc/customizer/customizer.php:1101
+msgid "Typography Options"
+msgstr "Opções de tipografia"
+
+#: inc/customizer/customizer.php:934
+msgid "Single Post"
+msgstr "Post único"
+
+#: inc/about/about-ashe.php:97
+msgid "Ashe Pro - Predefined Styles"
+msgstr "Ashe Pro - Estilos Predefinidos"
+
+#: inc/about/about-ashe.php:109 inc/about/about-ashe.php:116
+#: inc/about/about-ashe.php:123 inc/about/about-ashe.php:130
+#: inc/about/about-ashe.php:137 inc/about/about-ashe.php:144
+#: inc/about/about-ashe.php:151 inc/about/about-ashe.php:158
+#: inc/about/about-ashe.php:165 inc/about/about-ashe.php:172
+#: inc/about/about-ashe.php:179 inc/about/about-ashe.php:186
+#: inc/about/about-ashe.php:193 inc/about/about-ashe.php:200
+msgid "Live Preview"
+msgstr "Ver ao vivo"
+
+#: inc/about/about-ashe.php:136
+msgid "Style 1"
+msgstr "Estilo 1"
+
+#: inc/about/about-ashe.php:143
+msgid "Style 2"
+msgstr "Estilo 2"
+
+#: inc/about/about-ashe.php:150
+msgid "Style 3"
+msgstr "Estilo 3"
+
+#: inc/about/about-ashe.php:157
+msgid "Style 4"
+msgstr "Estilo 4"
+
+#: inc/about/about-ashe.php:164
+msgid "Style 5"
+msgstr "Estilo 5"
+
+#: inc/about/about-ashe.php:171
+msgid "Style 6"
+msgstr "Estilo 6"
+
+#: inc/about/about-ashe.php:178
+msgid "Style 7"
+msgstr "Estilo 7"
+
+#: inc/about/about-ashe.php:185
+msgid "Style 8"
+msgstr "Estilo 8"
+
+#: inc/about/about-ashe.php:192
+msgid "Style 9"
+msgstr "Estilo 9"
+
+#: inc/about/about-ashe.php:199
+msgid "Style 10"
+msgstr "Estilo 10"
+
+#: inc/customizer/customizer.php:625
+msgid "Logo Options"
+msgstr "Opções do logótipo"
+
+#: inc/about/about-ashe.php:420
+msgid "Advanced WooCommerce Support"
+msgstr "Suporte Avançado WooCommerce"
+
+#: templates/grid/blog-grid.php:114 single.php:34
+msgid "You May Also Like"
+msgstr "Você pode gostar"
+
+#: templates/sidebars/sidebar-alt.php:25
+msgid "No Widgets found in the Sidebar Alt!"
+msgstr "Nenhum widget encontrado na barra lateral Alt!"
+
+#: inc/preview/demo-preview.php:72 inc/preview/demo-preview.php:79
+msgid "Search"
+msgstr "Procurar"
+
+#: inc/preview/demo-preview.php:73
+msgid "Recent Posts"
+msgstr "Posts recentes"
+
+#: inc/preview/demo-preview.php:74 inc/preview/demo-preview.php:81
+msgid "Archives"
+msgstr "Arquivos"
+
+#: inc/preview/demo-preview.php:75
+msgid "Categories"
+msgstr "Categorias"
+
+#: inc/preview/demo-preview.php:80
+msgid "Pages"
+msgstr "Páginas"
+
+#: 404.php:5
+msgid "Page not found!"
+msgstr "Página não encontrada!"
+
+#: templates/grid/blog-list.php:66 templates/grid/blog-grid.php:63
+#: templates/grid/blog-grid.php:106 templates/single/post-content.php:44
+#: templates/single/post-content.php:93 comments.php:12
+msgid "0 Comments"
+msgstr "0 comentários"
+
+#: comments.php:12
+msgid "One Comment"
+msgstr "Um comentário"
+
+#: comments.php:12
+msgid "% Comments"
+msgstr "% Comentários"
+
+#: comments.php:26
+msgid "Older Comments"
+msgstr "Comentários mais antigos"
+
+#: comments.php:30
+msgid "Newer Comments"
+msgstr "Comentários mais recentes"
+
+#: functions.php:50
+msgid "Top Menu"
+msgstr "Menu do topo"
+
+#: functions.php:51
+msgid "Main Menu"
+msgstr "Menu principal"
+
+#. translators: %s theme name
+#: functions.php:103
+msgid "Get started with %s"
+msgstr "Comece com %s"
+
+#: functions.php:200 functions.php:208 functions.php:216 functions.php:224
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:257 functions.php:267
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Adicione widgets aqui para que apareçam em sua barra lateral."
+
+#: functions.php:275
+msgid "Sidebar Alt"
+msgstr "Barra lateral Alt"
+
+#: functions.php:277
+msgid "Add widgets here to appear in your alternative/fixed sidebar."
+msgstr "Adicione widgets aqui para aparecer em sua barra lateral alternativa/fixa."
+
+#: functions.php:285
+msgid "Footer Widgets"
+msgstr "Widgets do rodapé"
+
+#: functions.php:287
+msgid "Add widgets here to appear in your footer."
+msgstr "Adicione widgets aqui para serem exibidos em seu rodapé."
+
+#. translators: %s: Name of current post
+#: functions.php:353 functions.php:369
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Continue lendo<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: functions.php:528
+msgid "Search..."
+msgstr "Pesquisa..."
+
+#: functions.php:528
+msgid "Type then hit Enter..."
+msgstr "Digite e pressione Enter ..."
+
+#: functions.php:625
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:627 functions.php:648
+msgid "&nbsp;at&nbsp;"
+msgstr "&nbsp;at&nbsp;"
+
+#: functions.php:628 functions.php:651
+msgid "[Edit]"
+msgstr "[Editar]"
+
+#: functions.php:660
+msgid "Your comment is awaiting moderation."
+msgstr "O seu comentário está aguardando moderação."
+
+#: inc/customizer/customizer.php:363 inc/about/about-ashe.php:5
+msgid "About Ashe"
+msgstr "Sobre Ashe"
+
+#: inc/about/about-ashe.php:38
+msgid "Getting Started"
+msgstr "Primeiros passos"
+
+#: inc/about/about-ashe.php:47
+msgid "Support"
+msgstr "Suporte"
+
+#: inc/about/about-ashe.php:50
+msgid "Free vs Pro"
+msgstr "Grátis vs Pro"
+
+#: inc/customizer/customizer.php:317 inc/customizer/customizer.php:325
+#: inc/about/about-ashe.php:62
+msgid "Documentation"
+msgstr "Documentação"
+
+#. translators: %s theme name
+#: inc/customizer/customizer.php:322 inc/about/about-ashe.php:65
+msgid "Need more details? Please check our full documentation for detailed information on how to use %s."
+msgstr "Precisa de mais detalhes? Por favor, verifique nossa documentação completa para obter informações detalhadas sobre como usar o %s."
+
+#: inc/about/about-ashe.php:68
+msgid "Read Full Documentation"
+msgstr "Leia a documentação completa"
+
+#: inc/about/about-ashe.php:73 inc/about/about-ashe.php:211
+msgid "Demo Content"
+msgstr "Conteúdo de demonstração"
+
+#: inc/about/about-ashe.php:82
+msgid "Theme Customizer"
+msgstr "Personalizador de Tema"
+
+#: inc/about/about-ashe.php:331
+msgid "Forums"
+msgstr "Fóruns"
+
+#: inc/about/about-ashe.php:334
+msgid "Before asking a questions it's highly recommended to search on forums, but if you can't find the solution feel free to create a new topic."
+msgstr "Antes de fazer uma pergunta, é altamente recomendável pesquisar em fóruns, mas se você não conseguir encontrar a solução, sinta-se à vontade para criar um novo tópico."
+
+#: inc/about/about-ashe.php:336
+msgid "Go to Support Forums"
+msgstr "Ir para os Fóruns de Suporte"
+
+#: inc/customizer/customizer.php:337 inc/customizer/customizer.php:339
+#: inc/about/about-ashe.php:343 inc/about/about-ashe.php:348
+msgid "Changelog"
+msgstr "Registro de alterações"
+
+#: inc/customizer/customizer.php:309 inc/about/about-ashe.php:363
+msgid "Get Ashe Pro"
+msgstr "Obter Ashe Pro"
+
+#: inc/about/about-ashe.php:367
+msgid "Ashe Pro"
+msgstr "Ashe Pro"
+
+#: inc/about/about-ashe.php:373
+msgid "800+ Google Fonts"
+msgstr "800+ Fontes do Google"
+
+#: inc/about/about-ashe.php:380
+msgid "Header Background Image/Color/Video"
+msgstr "Imagem de fundo do cabeçalho/cor/vídeo"
+
+#: inc/about/about-ashe.php:427
+msgid "Sticky Navigation"
+msgstr "Navegação aderente"
+
+#: inc/about/about-ashe.php:487
+msgid "Installed"
+msgstr "Instalado "
+
+#: inc/about/about-ashe.php:490
+msgid "Install Now"
+msgstr "Instalar agora"
+
+#: inc/customizer/customizer.php:294
+msgid "See Ashe PRO"
+msgstr "Veja Ashe PRO"
+
+#: inc/customizer/customizer.php:307
+msgid "Upgrade"
+msgstr "Atualizar"
+
+#: inc/customizer/customizer.php:308
+msgid "There are lots of reasons to upgrade to Pro version. Unlimited custom Colors, rich Typography options, multiple variation of Blog Feed layout and way much more. Also Premium Support included."
+msgstr "Há muitas razões para atualizar para a versão Pro. Cores personalizadas ilimitadas, opções ricas de tipografia, múltiplas variações do layout do Blog Feed e muito mais. Também suporte premium incluído."
+
+#: inc/customizer/customizer.php:437 inc/customizer/customizer.php:478
+msgid "Colors"
+msgstr "Cores"
+
+#: inc/customizer/customizer.php:443
+msgid "Accent"
+msgstr "Acentuação"
+
+#: inc/customizer/customizer.php:492
+msgid "General Layouts"
+msgstr "Layouts Gerais"
+
+#: inc/customizer/customizer.php:498
+msgid "Sidebar Width"
+msgstr "Largura da barra lateral"
+
+#: inc/customizer/customizer.php:501
+msgid "Enable Sticky Sidebar"
+msgstr "Ativar barra lateral aderente"
+
+#: inc/customizer/customizer.php:510 inc/customizer/customizer.php:845
+msgid "Blog Page"
+msgstr "Página do Blog"
+
+#: inc/customizer/customizer.php:513 inc/customizer/customizer.php:522
+msgid "Full"
+msgstr "Completo"
+
+#: inc/customizer/customizer.php:514
+msgid "Contained"
+msgstr "Contido"
+
+#: inc/customizer/customizer.php:515 inc/customizer/customizer.php:523
+msgid "Boxed"
+msgstr "Limitado"
+
+#: inc/customizer/customizer.php:519
+msgid "Header Width"
+msgstr "Largura do cabeçalho"
+
+#: inc/customizer/customizer.php:527
+msgid "Featured Slider Width"
+msgstr "Largura do slider em destaque"
+
+#: inc/customizer/customizer.php:530
+msgid "Featured Links Width"
+msgstr "Largura dos Links em Destaque"
+
+#: inc/customizer/customizer.php:533
+msgid "Content Width"
+msgstr "Largura de Conteúdo"
+
+#: inc/customizer/customizer.php:536
+msgid "Single Content Width"
+msgstr "Largura Única de Conteúdo"
+
+#: inc/customizer/customizer.php:539
+msgid "Footer Width"
+msgstr "Largura do Rodapé"
+
+#: inc/customizer/customizer.php:549
+msgid "Layout Options"
+msgstr "Opções de layout"
+
+#: inc/customizer/customizer.php:563 inc/customizer/customizer.php:569
+msgid "Top Bar"
+msgstr "Barra do topo"
+
+#: inc/customizer/customizer.php:579
+msgid "Page Header"
+msgstr "Cabeçalho da página"
+
+#: inc/customizer/customizer.php:582
+msgid "Cover"
+msgstr "Cobrir"
+
+#: inc/customizer/customizer.php:583
+msgid "Pattern"
+msgstr "Padrão"
+
+#: inc/customizer/customizer.php:587
+msgid "Background Image Size"
+msgstr "Tamanho da imagem de fundo"
+
+#: inc/customizer/customizer.php:613
+msgid "Width"
+msgstr "Largura"
+
+#: inc/customizer/customizer.php:639 inc/customizer/customizer.php:645
+msgid "Main Navigation"
+msgstr "Navegação principal"
+
+#: inc/customizer/customizer.php:648
+msgid "Left"
+msgstr "Esquerda"
+
+#: inc/customizer/customizer.php:649
+msgid "Center"
+msgstr "Centro"
+
+#: inc/customizer/customizer.php:650
+msgid "Right"
+msgstr "Direita"
+
+#: inc/customizer/customizer.php:654
+msgid "Align"
+msgstr "Alinhar"
+
+#: inc/customizer/customizer.php:657
+msgid "Show Search Icon"
+msgstr "Mostrar ícone de pesquisa"
+
+#: inc/customizer/customizer.php:660
+msgid "Show Sidebar Icon"
+msgstr "Mostrar ícone da barra lateral"
+
+#: inc/customizer/customizer.php:675 inc/customizer/customizer.php:681
+msgid "Featured Slider"
+msgstr "Slider em destaque"
+
+#: inc/customizer/customizer.php:752
+msgid "Display Posts"
+msgstr "Exibir postagens"
+
+#: inc/customizer/customizer.php:761
+msgid "Select Category"
+msgstr "Selecionar categoria"
+
+#: inc/customizer/customizer.php:764
+msgid "Number of Slides"
+msgstr "Número de Slides"
+
+#: inc/customizer/customizer.php:767
+msgid "Show Navigation Arrows"
+msgstr "Mostrar setas de navegação"
+
+#: inc/customizer/customizer.php:770
+msgid "Show Pagination Dots"
+msgstr "Mostrar pontos de paginação"
+
+#: inc/customizer/customizer.php:780
+msgid "Slider Options "
+msgstr "Opções de controle deslizante"
+
+#: inc/customizer/customizer.php:794 inc/customizer/customizer.php:800
+msgid "Featured Links"
+msgstr "Links em destaque"
+
+#: inc/customizer/customizer.php:812 inc/customizer/customizer.php:821
+#: inc/customizer/customizer.php:830
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:265
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:381
+msgid "Title"
+msgstr "Título"
+
+#: inc/customizer/customizer.php:815 inc/customizer/customizer.php:824
+#: inc/customizer/customizer.php:833 inc/customizer/customizer.php:1043
+#: inc/customizer/customizer.php:1049 inc/customizer/customizer.php:1055
+#: inc/customizer/customizer.php:1061
+msgid "URL"
+msgstr "URL"
+
+#: inc/customizer/customizer.php:818 inc/customizer/customizer.php:827
+#: inc/customizer/customizer.php:836
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:523
+msgid "Image"
+msgstr "Imagem"
+
+#: inc/customizer/customizer.php:851 inc/customizer/customizer.php:904
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:524
+msgid "None"
+msgstr "Nenhum"
+
+#: inc/customizer/customizer.php:852
+msgid "Post Excerpt"
+msgstr "Publicar trecho"
+
+#: inc/customizer/customizer.php:853
+msgid "Post Content"
+msgstr "Publicar conteúdo"
+
+#: inc/customizer/customizer.php:857
+msgid "Post Description"
+msgstr "Descrição da postagem"
+
+#: inc/customizer/customizer.php:395 inc/customizer/customizer.php:860
+msgid "Default"
+msgstr "Padrão"
+
+#: inc/customizer/customizer.php:861
+msgid "Numeric"
+msgstr "Numérica"
+
+#: inc/customizer/customizer.php:865
+msgid "Post Pagination"
+msgstr "Post Pagination"
+
+#: inc/customizer/customizer.php:868 inc/customizer/customizer.php:940
+msgid "Show Categories"
+msgstr "Exibir Categorias"
+
+#: inc/customizer/customizer.php:871 inc/customizer/customizer.php:943
+msgid "Show Date"
+msgstr "Mostrar data"
+
+#: inc/customizer/customizer.php:874 inc/customizer/customizer.php:946
+msgid "Show Comments"
+msgstr "Mostrar Comentários"
+
+#: inc/customizer/customizer.php:877
+msgid "Show Drop Caps"
+msgstr "Exibir inicial decorada"
+
+#: inc/customizer/customizer.php:880 inc/customizer/customizer.php:949
+msgid "Show Author"
+msgstr "Mostrar autor"
+
+#: inc/customizer/customizer.php:905
+msgid "Related"
+msgstr "Relacionado"
+
+#: inc/customizer/customizer.php:909 inc/customizer/customizer.php:955
+msgid "Related Posts - Display"
+msgstr "Posts Relacionados - Display"
+
+#: inc/customizer/customizer.php:919
+msgid "Blog Options "
+msgstr "Opções de Blog"
+
+#: inc/customizer/customizer.php:952
+msgid "Show Author Description"
+msgstr "Mostrar descrição do autor"
+
+#: inc/customizer/customizer.php:964
+msgid "Social Media"
+msgstr "Mídia social"
+
+#: inc/customizer/customizer.php:1040 inc/customizer/customizer.php:1046
+#: inc/customizer/customizer.php:1052 inc/customizer/customizer.php:1058
+msgid "Select Icon"
+msgstr "Selecione o ícone"
+
+#: inc/customizer/customizer.php:1116
+msgid "Page Footer"
+msgstr "Rodapé da Página"
+
+#: inc/customizer/customizer.php:1137
+msgid "Footer Options"
+msgstr "Opções de Rodapé"
+
+#: inc/customizer/customizer.php:1151
+msgid "Preloader"
+msgstr "Pré-carregar"
+
+#: inc/customizer/customizer.php:1157
+msgid "Preloading Animation"
+msgstr "Pré-carregar animação"
+
+#: page.php:63 templates/single/post-content.php:62
+msgid "Pages:"
+msgstr "Páginas"
+
+#: templates/header/featured-slider.php:102 templates/grid/blog-list.php:91
+#: templates/grid/blog-grid.php:87
+msgid "read more"
+msgstr "Leia mais"
+
+#: templates/grid/blog-list.php:66 templates/grid/blog-grid.php:63
+#: templates/grid/blog-grid.php:106 templates/single/post-content.php:44
+#: templates/single/post-content.php:93
+msgid "1 Comment"
+msgstr "1 comentário"
+
+#: templates/grid/blog-list.php:66 templates/grid/blog-grid.php:63
+#: templates/grid/blog-grid.php:106 templates/single/post-content.php:44
+#: templates/single/post-content.php:93
+msgid "Comments"
+msgstr "Comentários"
+
+#: templates/grid/blog-list.php:113 templates/grid/blog-grid.php:131
+msgid "Nothing Found!"
+msgstr "Nada encontrado"
+
+#: templates/grid/blog-list.php:114 templates/grid/blog-grid.php:132
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Nada foi encontrado com os termos da sua pesquisa. Tente novamente com algumas palavras-chaves diferentes."
+
+#: templates/grid/blog-pagination.php:31
+msgid "Loading..."
+msgstr "Carregando..."
+
+#: templates/grid/blog-pagination.php:64
+msgid "Older Posts"
+msgstr "Posts antigos"
+
+#: templates/grid/blog-pagination.php:70
+msgid "Newer Posts"
+msgstr "Posts recentes"
+
+#: templates/grid/blog-pagination.php:76
+msgid "Load More"
+msgstr "Carregue mais"
+
+#: templates/single/post-content.php:85
+msgid "By"
+msgstr "Por"
+
+#. Author of the theme
+msgid "WP Royal"
+msgstr "WP Royal"
+
+#. Theme URI of the theme
+msgid "https://wp-royal.com/themes/item-ashe-free/"
+msgstr "https://wp-royal.com/themes/item-ashe-free/"
+
+#. Author URI of the theme
+msgid "https://wp-royal.com/"
+msgstr "https://wp-royal.com/"
